@@ -1,0 +1,12 @@
+baseURL = 'https://ebike.theqoder.com/'
+languageCode = "en-us"
+title = "EXRBYKO Peak 1500W/2000W Fat Tire Electric Bike for Adults"
+disableKinds = ["taxonomy"]
+enableGitInfo = true
+[params]
+  author = "Josue Pacheco"
+[modules]
+  disable = true
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
